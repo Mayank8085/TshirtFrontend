@@ -11,8 +11,9 @@ const AdminDashBoard = () => {
 	const adminLeftSide = () => {
 		return (
 			<div className="card">
+				
 				<h4 className="card-header bg-dark text-white">Admin Navigation</h4>
-				<ul className="list-group">
+				<ul className="list-group" id="#navbarNav">
 					<li className="list-group-item">
 						<Link to="/admin/create/category" className="nav-link text-success">
 							Create Categories
@@ -69,8 +70,8 @@ const AdminDashBoard = () => {
 			className="container bg-success p-4"
 		>
 			<div className="row">
-				<div className="col-3">{adminLeftSide()}</div>
-				<div className="col-9">{adminRightSide()}</div>
+				<div className="col-6 col-md-3">{adminLeftSide()}</div>
+				<div className="col-6 col-md-9">{adminRightSide()}</div>
 			</div>
 		</Base>
 	);
