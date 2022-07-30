@@ -6,6 +6,8 @@ A shopping website which displays a list of t-shirt for the user to buy. Impleme
 
 https://tshritstore.netlify.app/
 
+**Admin Credential:** email: mayanksahu8515@gmail.com password: 1234 
+
 ![image](https://user-images.githubusercontent.com/57897376/178154582-4bec11f5-e5c4-4386-84c6-61cfc7632b18.png)
 
 ## Tech Stack
