@@ -58,7 +58,9 @@ const Card = ({
   };
   return (
     <div className="card text-white bg-dark border border-info ">
-      <div className="card-header lead">{cartTitle}</div>
+      <div className="card-header lead"><h4>
+      {cartTitle}
+        </h4></div>
       <div className="card-body">
         {getARedirect(redirect)}
         <ImageHelper product={product} />

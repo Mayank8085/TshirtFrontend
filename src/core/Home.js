@@ -29,6 +29,7 @@ export default function Home() {
   return (
     <Base title="Home Page" description="Welcome to the Tshirt Store">
       <div className="row text-center">
+        
       <div className="container-fluid  text-white text-center  ">
       
         <h1 >All T-shirts</h1>
