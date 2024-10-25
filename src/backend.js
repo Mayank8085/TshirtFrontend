@@ -1,1 +1,1 @@
-export const API = 'https://tshrtbackend.herokuapp.com/api';
+export const API = 'https://tshirtbackend-ewoz.onrender.com/api';
