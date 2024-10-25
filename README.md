@@ -4,7 +4,7 @@ A shopping website which displays a list of t-shirt for the user to buy. Impleme
 
 ## Demo
 
-[https://tshritstore.netlify.app/](https://tshirtstore18.vercel.app/)
+[https://tshirtstore18.vercel.app](https://tshirtstore18.vercel.app/)
 
 **Admin Credential:** email: mayanksahu8515@gmail.com password: 1234 
 
