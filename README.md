@@ -54,6 +54,15 @@ A shopping website which displays a list of t-shirt for the user to buy. Impleme
 **Manage Categeries**
 <br><img width="750" alt="ManageCategories" src="https://github.com/user-attachments/assets/935737ec-3619-4178-b1d2-4db5e50e39da" /><br>
 
+## Features
+
+- Browse a collection of t-shirts  
+- User authentication and authorization  
+- Add, edit, and delete products (CRUD operations)  
+- Secure payments via Stripe integration  
+- Responsive and intuitive UI  
+
+
 ## Tech Stack
 
 **Client:** [ReactJS](https://reactjs.org/), [Bootstrap](https://getbootstrap.com/) , [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
